@@ -10,8 +10,8 @@ const imbPlexSerif = IBM_Plex_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Horizon Bank",
-  description: "Modern baking platform for everyone",
+  title: "Vault Funds",
+  description: "Vault Funds is a modern baking platform for everyone",
   icons: {
     icon: "/icons/logo.svg",
   },
